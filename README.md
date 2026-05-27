@@ -64,7 +64,7 @@ MFC와 WinSock 기반으로 구현한
 ### 🎲 Initial Game Screen
 
 <p align="center">
-  <img src="assets/screenshots/game-initial-screen.png" width="700">
+  <img src="assets/screenshots/game-initial-screen.png" width="500"/>
 </p>
 
 ---
@@ -72,7 +72,7 @@ MFC와 WinSock 기반으로 구현한
 ### 🃏 Blackjack Gameplay
 
 <p align="center">
-  <img src="assets/screenshots/blackjack-gameplay.png" width="700">
+  <img src="assets/screenshots/blackjack-gameplay.png" width="500"/>
 </p>
 
 ---
@@ -80,7 +80,7 @@ MFC와 WinSock 기반으로 구현한
 ### 🏆 Victory Result
 
 <p align="center">
-  <img src="assets/screenshots/victory-result-screen.png" width="700">
+  <img src="assets/screenshots/victory-result-screen.png" width="500"/>
 </p>
 
 ---
@@ -88,7 +88,7 @@ MFC와 WinSock 기반으로 구현한
 ### 🤝 Draw Result
 
 <p align="center">
-  <img src="assets/screenshots/draw-result-screen.png" width="700">
+  <img src="assets/screenshots/draw-result-screen.png" width="500"/>
 </p>
 
 ---
